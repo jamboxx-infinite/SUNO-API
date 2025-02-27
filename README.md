@@ -1,10 +1,5 @@
 [简体中文](README_ZH.md) | [日本語](README_JA.md)
 
-## Suno API
-Contact me, if you need suno api.  
-[https://t.me/austin3306](https://t.me/austin3306)
-
-
 ### Unofficial API
 
 This is an unofficial API based on Python and FastAPI. It currently supports generating songs, lyrics, etc.  
